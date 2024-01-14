@@ -1,0 +1,7 @@
+1.What are the various versions of Power BI?
+Power BI Desktop
+Power BI Pro
+Power BI Premium
+Power BI Mobile
+Power BI Report Server
+Power BI Embedded

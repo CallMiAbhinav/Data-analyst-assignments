@@ -1,0 +1,10 @@
+Step 1:Login to "app.powerbi.com" and login with organization mail id.
+Step 2:In the left pane click on "Workspaces" then click "New Workspace".
+Step 3:In a create workspace form fill in details that includes name of workspace, description, 
+  upload image if you want, then click on Advanced then in the license mode select the kind of
+  license that the organization using.
+Step 4:In the Default Storage Format select the kind of dataset storage format either big or small
+Step 5:Click on Apply. New workspace created.
+Step 6:Upload the content into the workspace 
+Step 7:Click on the "Manage Access" then click on "Add people or groups" add people according to the 
+need with their roles and access they required as per the project.
